@@ -13,3 +13,10 @@ h2 {
     border: 2px solid black;
     border-radius: 10px;
 }
+
+img {
+    width: 100%; /* Make sure images take the full width of their container */
+    height: auto; /* Maintain aspect ratio */
+    border: 2px solid red;
+}
+
