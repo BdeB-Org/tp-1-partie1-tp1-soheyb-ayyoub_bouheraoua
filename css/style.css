@@ -15,8 +15,11 @@ h2 {
 }
 
 img {
-    width: 100%; /* Make sure images take the full width of their container */
-    height: auto; /* Maintain aspect ratio */
+    width: 80%; /* Reduce the width of the images */
+    height: auto;
     border: 2px solid red;
 }
 
+h3, p {
+    font-size: 1.2em; /* Increase the font size of heading and paragraph */
+}
