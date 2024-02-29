@@ -5,3 +5,11 @@ body {
 h2 {
     color: #333;
 }
+
+.produit1, .produit2, .produit3, .produit4 {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
